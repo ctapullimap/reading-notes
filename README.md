@@ -33,7 +33,7 @@ Hola, soy **Carlos Martín**, Empece con experiencia en soporte técnico de prim
 - [Mindset](./Mindset.md)
 
   ```html
-  <h1>Hola Mundito</h1>
+  <h1>aprendiendo de los fracasos en lugar de evitarlos</h1>
   ```
 
   © 2024 Carlos Martín Tapullima Pezo
