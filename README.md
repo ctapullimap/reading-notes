@@ -6,9 +6,13 @@ Soty Carlos Tapullima, Empece con experiencia en soporte técnico de primer nive
 
 ## Información de contacto
 
--[linkedin](https://www.linkedin.com/in/carlos-tapullima/)
--[github](https://github.com/ctapullimap)
+- [linkedin](https://www.linkedin.com/in/carlos-tapullima/)
+- [github](https://github.com/ctapullimap)
 
 ## Mis notas de lectura 
 
--[Mindset](./Mindset.md)
+- [Mindset](./Mindset.md)
+
+  ```html
+<h1>Hola Mundito</h1>
+```
