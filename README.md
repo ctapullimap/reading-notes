@@ -23,8 +23,8 @@ Hola, soy **Carlos Martín**, Empece con experiencia en soporte técnico de prim
 
 ## Información de contacto
 
-- [linkedin](https://www.linkedin.com/in/carlos-tapullima/)
-- [github](https://github.com/ctapullimap)
+- [Linkedin](https://www.linkedin.com/in/carlos-tapullima/)
+- [Github](https://github.com/ctapullimap)
 
 ## Mis notas de lectura 
 
