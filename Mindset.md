@@ -11,4 +11,4 @@ El Growth Mindset o "mentalidad de crecimiento" es un concepto que propone que l
 - Solicitando retroalimentación y tomando la crítica constructiva como una oportunidad de mejora.
 - Ser empatico con los demas.
 
-  <strong>*[Enlace al README](./Reame.md)*</strong>
+  <strong>*[Enlace al README](./Readme.md)*</strong>
