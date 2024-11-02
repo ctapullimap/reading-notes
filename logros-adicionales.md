@@ -35,4 +35,3 @@ En esta página, he documentado los pensamientos y observaciones que tuve al com
 ---
 
 ¡Seguiré documentando mis aprendizajes a medida que progrese en mi viaje de programación!
-
