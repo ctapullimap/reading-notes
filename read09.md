@@ -29,6 +29,7 @@ JavaScript ofrece varios tipos de datos que se pueden utilizar para almacenar y 
 * Symbol: Un valor único e inmutable, utilizado como identificador único.
 
   let simbolo = Symbol("descripcion");
+  
 ## Tipo de Dato Objeto
 
 * Object: Colección de propiedades y valores.
@@ -43,6 +44,7 @@ let persona = {
 let lista = [1, 2, 3, 4, 5];
 
 ## 2. Estructuras Condicionales: if y else
+
 * Las estructuras condicionales permiten ejecutar diferentes bloques de código basados en ciertas condiciones.
   
 * Uso de if y else
@@ -56,6 +58,7 @@ if (edad >= 18) {
 * Propósito: Las estructuras condicionales permiten que un programa tome decisiones y ejecute diferentes caminos de código según las condiciones evaluadas.
 
 ## 3. Operadores en JavaScript
+
 # Tipos de Operadores
 
 * Aritméticos: Realizan operaciones matemáticas.
