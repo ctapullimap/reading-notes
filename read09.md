@@ -62,22 +62,24 @@ if (edad >= 18) {
 # Tipos de Operadores
 
 * Aritméticos: Realizan operaciones matemáticas.
-let suma = 5 + 3;        // 8
-let resta = 5 - 3;       // 2
-let multiplicacion = 5 * 3; // 15
-let division = 15 / 3;   // 5
-let modulo = 5 % 2;      // 1
+
+- let suma = 5 + 3;        // 8
+- let resta = 5 - 3;       // 2
+- let multiplicacion = 5 * 3; // 15
+- let division = 15 / 3;   // 5
+- let modulo = 5 % 2;      // 1
 
 * Comparación: Comparan dos valores.
-let esIgual = (5 == "5");     // true
-let esEstrictamenteIgual = (5 === "5"); // false
+- let esIgual = (5 == "5");     // true
+- let esEstrictamenteIgual = (5 === "5"); // false
 
 * Lógicos: Operan sobre valores booleanos.
-let y = true && false;  // false
-let o = true || false;  // true
-let no = !true;         // false
+- let y = true && false;  // false
+- let o = true || false;  // true
+- let no = !true;         // false
 
 ## 4. Declaración de Variables: var, let y const
+
 var
 * Alcance: Función.
 * Mutabilidad: Permite redeclaración y reasignación
