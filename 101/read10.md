@@ -24,7 +24,7 @@ function saludar(nombre) {
     return "¡Hola, " + nombre + "!";
 }
 
-console.log(saludar("Ana")); // Output: ¡Hola, Ana!
+console.log(saludar("Ana")); // Output: ¡Hola, Carlos!
 
 #### 3. ¿Cuántas veces se ejecutará un bucle “while”?
 
