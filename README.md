@@ -1,6 +1,6 @@
 # Carlos tapullima
 
-** Desarrollador de Software **
+## Desarrollador de Software ##
 
 Html |Css| JavaScript | MySQL | GitHub Pages\_
 
