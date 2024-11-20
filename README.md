@@ -2,7 +2,7 @@
 
 ## Desarrollador de Software ##
 
-Html |Css| JavaScript | MySQL | GitHub Pages\_
+Html |Css| JavaScript | MySQL | GitHub
 
 ![prueba](https://github.com/user-attachments/assets/5a778c14-1d89-4b28-a7a0-34c292a1d546)
 
