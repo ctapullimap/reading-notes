@@ -2,7 +2,9 @@
 
 ## Confirmación de Cuentas Activas
 - He confirmado que tengo acceso a las siguientes plataformas de chatbot activas:
+  
   ** OpenAI (ChatGPT) **
+  
   ** Google Bard **
 
 ## Tarea: Solicitud de Explicación sobre Programación en JavaScript
