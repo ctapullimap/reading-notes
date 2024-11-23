@@ -45,7 +45,7 @@
 
 ### Funciones Automatizadas Comunes
 
-1. ** Autocompletado de código
+1. **Autocompletado de código**
    * Sugiere código mientras escribes
    * Reduce errores de sintaxis
    * Aumenta la velocidad de desarrollo
