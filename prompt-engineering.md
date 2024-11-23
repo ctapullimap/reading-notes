@@ -3,9 +3,9 @@
 ## Confirmación de Cuentas Activas
 - He confirmado que tengo acceso a las siguientes plataformas de chatbot activas:
   
-  ** OpenAI (ChatGPT) 
+  # OpenAI (ChatGPT) 
   
-  ** Google Bard 
+  # Google Bard 
 
 ## Tarea: Solicitud de Explicación sobre Programación en JavaScript
 - He solicitado a ambos chatbots que expliquen cómo aprender a programar en JavaScript. A continuación, se detallan los resultados:
