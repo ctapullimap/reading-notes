@@ -156,3 +156,21 @@ Utiliza valores hexadecimales para representar los componentes RGB.
 
 `` css
 color: hsl(0, 100%, 50%); /* Rojo */
+
+- **Hue (tono)**: Grado en la rueda de color (0-360).
+- **Saturation (saturación)**: Porcentaje de intensidad del color (0%-100%).
+- **Lightness (luminosidad)**: Porcentaje de claridad u oscuridad (0%-100%).
+
+### Cuándo utilizar cada uno:
+
+- **Hexadecimal**: Es conciso y ampliamente utilizado, ideal para especificar colores sólidos sin transparencia.
+- **RGB/RGBA**: Útil cuando se necesita especificar colores dinámicamente o con transparencia. RGBA permite controlar la opacidad sin afectar otros elementos.
+- **HSL**: Es intuitivo para ajustar tonos, saturación y luminosidad, facilitando crear paletas de colores relacionadas.
+
+Elegir uno u otro depende de la necesidad específica del diseño y la facilidad con la que se quiera ajustar los colores.
+
+### Cosas de las que quiero saber más
+
+- **Grid Layout**: Aprender más sobre cómo funciona CSS Grid y cómo se complementa con Flexbox para diseños más complejos.
+- **Efectos avanzados**: Explorar más sobre transiciones, transformaciones y animaciones en CSS.
+- **Responsive Design**: Profundizar en técnicas para hacer que los sitios se vean bien en todos los dispositivos.
