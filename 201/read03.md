@@ -15,7 +15,7 @@ El **Box Model** es la forma en que CSS organiza y representa cada elemento en u
 - **Border (Borde):** La línea que rodea la caja.
 - **Margin (Margen):** Espacio exterior que separa la caja de otros elementos.
 
-```css
+`` css
 /* Ejemplo de Box Model */
 .elemento {
     width: 200px; /* Contenido */
@@ -23,3 +23,116 @@ El **Box Model** es la forma en que CSS organiza y representa cada elemento en u
     border: 2px solid black; /* Borde */
     margin: 10px; /* Margen */
 }
+
+## Respuestas a las Preguntas
+
+### 2. ¿Cuál es la diferencia entre `box-sizing: content-box` y `box-sizing: border-box`, y cómo afecta esto al diseño de una página web?
+
+La propiedad `box-sizing` define cómo se calcula el tamaño total de un elemento.
+
+- **`content-box`:**  
+  Solo incluye el contenido en el tamaño especificado. El `padding` y el `border` se **suman** al tamaño total del elemento.
+
+- **`border-box`:**  
+  Incluye el contenido, el `padding` y el `border` dentro del tamaño especificado. Esto facilita el diseño porque no necesitas hacer cálculos adicionales.
+
+**Ejemplo:**
+`` css
+/* content-box */
+.content-box {
+    box-sizing: content-box;
+    width: 100px; /* Solo el contenido mide 100px */
+    padding: 10px;
+    border: 5px solid black;
+    /* Tamaño total: 100px + 10px + 10px + 5px + 5px = 130px */
+}
+
+/* border-box */
+.border-box {
+    box-sizing: border-box;
+    width: 100px; /* Incluye contenido, padding y border */
+    padding: 10px;
+    border: 5px solid black;
+    /* Tamaño total: 100px */
+}
+## ¿Por qué importa?
+Usar `border-box` es más práctico para diseños responsivos, ya que el tamaño total del elemento es más predecible y consistente.
+
+---
+
+## 3. ¿Cuáles son las propiedades principales que se utilizan para configurar un contenedor flex y cómo afectan la disposición de los elementos dentro de él?
+
+El **Flexbox** es un sistema de diseño que facilita la alineación y distribución de elementos dentro de un contenedor.
+
+### Propiedades principales:
+- **`display: flex;`**  
+  Activa el modo Flexbox.
+
+- **`flex-direction`:**  
+  Define la dirección de los elementos (fila o columna).  
+  **Valores:**
+  - `row` (horizontal, por defecto)
+  - `column` (vertical)
+
+- **`justify-content`:**  
+  Controla la alineación horizontal de los elementos.  
+  **Valores:**
+  - `flex-start` (inicio)
+  - `flex-end` (final)
+  - `center` (centrado)
+  - `space-between` (espacio entre elementos)
+  - `space-around` (espacio alrededor de los elementos)
+
+- **`align-items`:**  
+  Controla la alineación vertical de los elementos.  
+  **Valores:**
+  - `stretch` (estirado, por defecto)
+  - `flex-start` (inicio)
+  - `flex-end` (final)
+  - `center` (centrado)
+
+### Ejemplo:
+`` css
+.contenedor {
+    display: flex;
+    flex-direction: row; /* Elementos en fila */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+}
+## 4. ¿Cómo se utiliza la propiedad flex para controlar el tamaño y el crecimiento de los elementos flexibles dentro de un contenedor?
+
+La propiedad `flex` controla cómo los elementos dentro de un contenedor flex ocupan espacio disponible. Tiene tres valores principales:
+
+- **`flex-grow`:**  
+  Define cuánto puede crecer un elemento si hay espacio extra.
+
+- **`flex-shrink`:**  
+  Define cuánto puede reducirse un elemento si no hay suficiente espacio.
+
+- **`flex-basis`:**  
+  Define el tamaño inicial del elemento antes de aplicar el crecimiento o reducción.
+
+### Ejemplo:
+`` css
+/* Tres elementos con diferentes prioridades de espacio */
+.elemento1 {
+    flex: 1; /* Crece igual que los demás */
+}
+
+.elemento2 {
+    flex: 2; /* Crece el doble que los demás */
+}
+
+.elemento3 {
+    flex: 1; /* Crece igual que el primero */
+}
+## En este caso, si hay espacio adicional, el segundo elemento (elemento2) ocupará el doble de espacio que los otros dos.
+
+---
+
+## 5. ¿Cuáles son las diferencias entre los formatos de color RGB, RGBA, hexadecimal y HSL en CSS, y en qué situaciones sería más conveniente utilizar cada uno?
+
+### RGB (Red, Green, Blue):
+Define colores mezclando valores de rojo, verde y azul (0-255).
+`` css
+color: rgb(255, 0, 0); /* Rojo puro */
