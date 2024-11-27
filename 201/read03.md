@@ -143,3 +143,9 @@ color: rgb(255, 0, 0); /* Rojo puro */
 
 `` css
 color: rgba(255, 0, 0, 0.5); /* Rojo con 50% de opacidad */
+Incluye un canal alpha para la transparencia, donde el valor va de 0 (transparente) a 1 (opaco).
+
+#### Hexadecimal:
+
+`` css
+color: #FF0000; /* Rojo */
