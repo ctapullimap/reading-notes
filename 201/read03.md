@@ -149,3 +149,10 @@ Incluye un canal alpha para la transparencia, donde el valor va de 0 (transparen
 
 `` css
 color: #FF0000; /* Rojo */
+
+Utiliza valores hexadecimales para representar los componentes RGB.
+
+#### HSL (Hue, Saturation, Lightness):
+
+`` css
+color: hsl(0, 100%, 50%); /* Rojo */
