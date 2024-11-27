@@ -136,3 +136,10 @@ La propiedad `flex` controla cómo los elementos dentro de un contenedor flex oc
 Define colores mezclando valores de rojo, verde y azul (0-255).
 `` css
 color: rgb(255, 0, 0); /* Rojo puro */
+
+### Los valores van de 0 a 255 para cada componente de color.
+
+#### RGBA (RGB con Alpha):
+
+`` css
+color: rgba(255, 0, 0, 0.5); /* Rojo con 50% de opacidad */
