@@ -25,7 +25,7 @@ Hola, soy **Carlos Martín**, Empece con experiencia en soporte técnico de prim
 
 ## Mis notas de lectura
 
-- tabla de contenido
+- [Mindset](Mindset.md)
 
 ## Code 101 - Elementals Software Development
 
