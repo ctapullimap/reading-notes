@@ -60,7 +60,7 @@ Usar `border-box` es más práctico para diseños responsivos, ya que el tamaño
 
 ---
 
-## 3. ¿Cuáles son las propiedades principales que se utilizan para configurar un contenedor flex y cómo afectan la disposición de los elementos dentro de él?
+### 3. ¿Cuáles son las propiedades principales que se utilizan para configurar un contenedor flex y cómo afectan la disposición de los elementos dentro de él?
 
 El **Flexbox** es un sistema de diseño que facilita la alineación y distribución de elementos dentro de un contenedor.
 
