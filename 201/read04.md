@@ -59,4 +59,4 @@ Simplificar el trabajo con JavaScript para hacer que las páginas web sean más 
 ---
 
 ## Enlace a GitHub Pages
-[Enlace a mi repositorio en GitHub Pages](https://turepositorio.github.io/reading-notes/)
+[Enlace a mi repositorio en GitHub Pages](https://ctapullimap.github.io/reading-notes/201/read04.html)
